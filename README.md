@@ -1,8 +1,6 @@
 # Home Assignment for Hord and TokensFarm Automated Tests
 
-This project contains automated tests for the **Hord** and **TokensFarm** web applications. These tests verify the functionality and visibility of key components, such as sidebars, dropdowns, and specific sections like FAQ and Last Airdrops.
-
-## The project took approximately 9 hours to complete
+The project took approximately 9 hours to complete
 
 ## Table of Contents
 
