@@ -1,0 +1,33 @@
+BLOCKCHAIN
+----------
+A blockchain is a decentralized digital ledger that records transactions across 
+multiple nodes, ensuring transparency, security, and immutability through 
+cryptographic techniques.
+
+SMART CONTRACT
+--------------
+A smart contract is a self-executing program stored on a blockchain that 
+automatically enforces the terms and conditions of a transaction.
+
+GAS TOKEN
+---------
+A GAS token is used to cover transaction fees on blockchain networks, 
+representing the cost of computing resources needed for transactions and 
+smart contract executions.
+
+ERC-20 TOKEN
+------------
+ERC-20 is a standard for tokens on the Ethereum blockchain, defining a set of 
+rules that enable tokens to be interoperable within the Ethereum ecosystem.
+
+WALLET
+------
+A crypto wallet is a secure digital application or hardware device that stores 
+users' public and private keys, allowing them to manage cryptocurrency balances, 
+send, and receive transactions.
+
+CHAINPORT BRIDGE
+----------------
+ChainPort is a bridge that facilitates the transfer of assets across different 
+blockchain networks, allowing users to “port” tokens securely between blockchains 
+like Ethereum and Binance Smart Chain.
