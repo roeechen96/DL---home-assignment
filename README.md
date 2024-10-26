@@ -39,8 +39,10 @@ test_chain_dropdown_locators: Ensures the TokensFarm dropdown is clickable and v
 
 ## Generating Allure Reports
 
+```bash
 allure serve allure-results
 
 ## Running Tests
 
+```bash
 pytest --alluredir=allure-results
