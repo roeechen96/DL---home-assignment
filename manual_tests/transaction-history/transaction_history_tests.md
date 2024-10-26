@@ -111,6 +111,3 @@ To verify that the **Transaction History** tab on the ChainPort App displays all
 - **Connected Wallet**: Ensure the user is logged into ChainPort with a MetaMask wallet to access the Transaction History.
 - **Cross-Platform Testing**: Test across different browsers and devices (if responsive design is implemented).
 - **Security Checks**: Confirm that no sensitive data, such as private keys, is accessible within the Transaction History tab.
-
-This suite covers the essential functionality and usability aspects of the Transaction History tab, ensuring data accuracy, proper filtering, navigation, and error handling.
-"""
