@@ -94,6 +94,3 @@ To verify that the correct protocol (ChainPortX or CCTP) and associated fees are
 - **Threshold Validation**: Ensure each threshold is applied correctly per chain and protocol.
 - **Fee Verification**: Confirm that fees displayed in the UI match the expected fees based on the selected protocol and amount range.
 - **Cross-Protocol Testing**: Validate that switching between protocols where applicable (Ethereum and Optimism) adheres to the threshold logic accurately.
-
-This test suite provides a minimal but comprehensive check for the protocol and fee logic based on thresholds across Ethereum, Avalanche, and Optimism chains.
-"""
