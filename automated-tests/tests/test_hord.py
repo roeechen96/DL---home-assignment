@@ -101,6 +101,7 @@ def test_faq_section(setup_browser: WebDriver) -> None:
         ), "FAQ section was not found or not visible within the timeout period"
 
 
+## Bonus
 @allure.feature("Hord Automation")
 @allure.story("Test the Last Airdrops section on the Revenue Share page")
 def test_last_airdrops(setup_browser: WebDriver) -> None:
